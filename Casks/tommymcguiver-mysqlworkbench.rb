@@ -1,4 +1,4 @@
-cask "mysqlworkbench" do
+cask "tommymcguiver-mysqlworkbench" do
   on_sierra :or_older do
     version "6.3.10"
     sha256 "29857bf84bebb7c4442ce147e44602d00f8c001e3c09b3a6e3af356767e08d2c"
